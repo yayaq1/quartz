@@ -9,21 +9,8 @@ const BonfireEffects: QuartzComponent = ({ displayClass }: QuartzComponentProps)
 }
 
 BonfireEffects.afterDOMLoaded = `
-// Enhanced dark mode toggle functionality
+// Enhanced interactive elements functionality
 document.addEventListener('DOMContentLoaded', () => {
-  // Ensure dark mode toggle works properly
-  const darkModeButton = document.querySelector('.darkmode button');
-  if (darkModeButton) {
-    darkModeButton.addEventListener('click', () => {
-      // Force a re-render of styles after theme change
-      setTimeout(() => {
-        document.body.style.display = 'none';
-        document.body.offsetHeight; // Trigger reflow
-        document.body.style.display = '';
-      }, 50);
-    });
-  }
-  
   // Subtle hover effects on interactive elements
   const interactiveElements = document.querySelectorAll('button, .search-button, a[href]');
   
