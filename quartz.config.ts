@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "", // Empty baseUrl for relative paths - update to your Vercel domain later
+    baseUrl: "https://portfolio-tau-seven-pbrc2qec06.vercel.app/", // Empty baseUrl for relative paths - update to your Vercel domain later
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
