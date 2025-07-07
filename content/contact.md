@@ -55,7 +55,7 @@ description: Reach out to share your own tales or collaborate on something meani
 
 ## Response Time
 
-I typically respond within 2-3 business days. If you haven't heard back, feel free to follow up—sometimes emails get lost in the digital void.
+I typically respond within 2-3 business days. If you haven't heard back, feel free to follow up-sometimes emails get lost in the digital void.
 
 ---
 

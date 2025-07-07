@@ -6,12 +6,12 @@ tags: ["projects", "portfolio", "builds"]
 
 # My Projects
 
-*These are the digital experiences I've crafted—each one a story of problem-solving, passion, and the joy of making something that matters.*
+*These are the digital experiences I've crafted-each one a story of problem-solving, passion, and the joy of making something that matters.*
 
 ## Fastrack
 **The Project That Put Us on the Map**
 
-Built with friends, Fastrack became our breakthrough project that caught the attention of executives and companies across Pakistan. It wasn't just about the technical achievement—it was proof that we could create something that truly mattered.
+Built with friends, Fastrack became our breakthrough project that caught the attention of executives and companies across Pakistan. It wasn't just about the technical achievement-it was proof that we could create something that truly mattered.
 
 **What I learned**: The power of collaboration, the importance of execution, and how the right project at the right time can change everything.
 
@@ -24,7 +24,7 @@ Built with friends, Fastrack became our breakthrough project that caught the att
 
 A simple but delightful tool that lets friends upload their chat conversations to discover their most-used emojis and words. Watching people's reactions as they discovered patterns in their own communication was pure magic.
 
-**The Magic Moment**: Seeing friends share laughs and insights about their communication patterns—those genuine "oh wow" moments that remind me why I love building.
+**The Magic Moment**: Seeing friends share laughs and insights about their communication patterns-those genuine "oh wow" moments that remind me why I love building.
 
 **Tech**: Built for quick iteration and user delight, focusing on the experience over complexity.
 
@@ -33,7 +33,7 @@ A simple but delightful tool that lets friends upload their chat conversations t
 ## Teacher Landing Pages
 **Giving Back to Those Who Shaped Me**
 
-Created landing pages for teachers who made a difference in my life. This wasn't just about the technical work—it was about using my skills to honor the people who helped shape who I am today.
+Created landing pages for teachers who made a difference in my life. This wasn't just about the technical work-it was about using my skills to honor the people who helped shape who I am today.
 
 **Why It Matters**: Sometimes the most meaningful projects aren't the most technically complex. They're the ones that let you give back to the people who believed in you.
 
@@ -69,7 +69,7 @@ Following the Y Combinator mantra: "Make stuff that people really want." Current
 ## The Philosophy Behind Every Build
 
 ### Simple, Effective Solutions
-The best things I make aren't the most technically complex—they're the ones that solve real problems in ways that feel effortless to the user.
+The best things I make aren't the most technically complex-they're the ones that solve real problems in ways that feel effortless to the user.
 
 ### The "Oh Wow" Factor
 I live for that moment when someone tries something I've built and their face lights up with genuine delight. That's the real measure of success.
@@ -86,7 +86,7 @@ Whatever I'm working on, I believe in being passionate about it to the point of 
 
 Always building, always learning, always pushing to create experiences that make people say "oh wow, this is amazing."
 
-The bonfire of creativity burns brightest when it's shared. Each project is a chance to solve problems, delight users, and maybe—just maybe—make someone's day a little bit better.
+The bonfire of creativity burns brightest when it's shared. Each project is a chance to solve problems, delight users, and maybe-just maybe-make someone's day a little bit better.
 
 ---
 
@@ -96,7 +96,7 @@ The bonfire of creativity burns brightest when it's shared. Each project is a ch
 
 ## Technologies & Tools
 
-**Current Stack**: Whatever gets the job done best—I believe in choosing tools based on the problem, not the hype.
+**Current Stack**: Whatever gets the job done best-I believe in choosing tools based on the problem, not the hype.
 
 **Favorite Tools**: Cursor (game-changer for development speed), modern web frameworks, and anything that helps me build faster and better.
 

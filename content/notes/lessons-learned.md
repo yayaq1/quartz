@@ -18,7 +18,7 @@ For too long, I said yes to everything. Every project, every request, every oppo
 
 ### The Breaking Point
 
-The reality hit hard when I found myself juggling too many commitments, delivering subpar work, and disappointing people I cared about. The very thing I was trying to avoid—letting people down—became inevitable because I couldn't be realistic about what I could actually deliver.
+The reality hit hard when I found myself juggling too many commitments, delivering subpar work, and disappointing people I cared about. The very thing I was trying to avoid-letting people down-became inevitable because I couldn't be realistic about what I could actually deliver.
 
 ### The Lesson
 
@@ -32,7 +32,7 @@ I used to think motivation was everything. Wait for the spark, ride the wave, cr
 
 Wrong.
 
-Motivation is unreliable. It comes and goes like the weather. What you need is **discipline**—the ability to do what needs to be done regardless of how you feel.
+Motivation is unreliable. It comes and goes like the weather. What you need is **discipline**-the ability to do what needs to be done regardless of how you feel.
 
 ### The Breakthrough
 
@@ -50,13 +50,13 @@ Then tools like Cursor changed everything.
 
 Now I can build things over a weekend that can bring real value and return. The pace of development has accelerated beyond what I thought possible just a few years ago.
 
-This shift has been mind-blowing. It's not just about speed—it's about the ability to iterate quickly, test ideas rapidly, and bring solutions to market while they're still relevant.
+This shift has been mind-blowing. It's not just about speed-it's about the ability to iterate quickly, test ideas rapidly, and bring solutions to market while they're still relevant.
 
 ## The Power of Focused Obsession
 
 Here's what I've learned about balancing learning and building:
 
-**Focus on the end goal.** If the end goal is motivating enough—something you really desire—you'll do whatever it takes to execute it. The learning becomes a byproduct of the building, not a separate activity.
+**Focus on the end goal.** If the end goal is motivating enough-something you really desire-you'll do whatever it takes to execute it. The learning becomes a byproduct of the building, not a separate activity.
 
 When you're truly passionate about what you're working on, when that passion reaches the point of "madness and craze," you don't struggle with motivation or discipline. You just do what needs to be done.
 
@@ -68,7 +68,7 @@ I'm failing at this advice right now, but I keep coming back to it. The best gui
 
 ## The Bottom Line
 
-These lessons aren't just about code or technology—they're about being human in a fast-paced, demanding field. They're about understanding your own limitations, building discipline, and staying focused on what really matters.
+These lessons aren't just about code or technology-they're about being human in a fast-paced, demanding field. They're about understanding your own limitations, building discipline, and staying focused on what really matters.
 
 The bonfire burns brightest when it's well-tended, not when it's trying to consume everything at once.
 
