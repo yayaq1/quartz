@@ -10,22 +10,22 @@ description: Reach out to share your own tales or collaborate on something meani
 ## Get in Touch
 
 ### 📧 **Email**
-[your.email@example.com](mailto:your.email@example.com)
+[contact.yayaq@gmail.com](mailto:contact.yayaq@gmail.com)
 
 *Best for: Project inquiries, collaboration opportunities, thoughtful conversations*
 
 ### 💼 **LinkedIn** 
-[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+[linkedin.com/in/yayaq](https://linkedin.com/in/yayaq)
 
 *Best for: Professional connections, career discussions*
 
 ### 🐙 **GitHub**
-[github.com/yourusername](https://github.com/yourusername)
+[github.com/yayaq1](https://github.com/yayaq1)
 
 *Best for: Code collaboration, open source projects*
 
 ### 🐦 **Twitter**
-[@yourhandle](https://twitter.com/yourhandle)
+[@yayaq002](https://twitter.com/yayaq002)
 
 *Best for: Quick thoughts, tech discussions, memes*
 
@@ -61,7 +61,7 @@ I typically respond within 2-3 business days. If you haven't heard back, feel fr
 
 ## Coffee Chat?
 
-If you're in [Your City] or visiting, I'm always up for a coffee chat about technology, design, or life in general. The bonfire burns brightest when shared.
+If you're in Islamabad or visiting, I'm always up for a coffee chat about technology, design, or life in general. The bonfire burns brightest when shared.
 
 ---
 
