@@ -1,17 +1,17 @@
 ---
-title: "Builds & Creations"
+title: "My Projects"
 date: 2024-01-05
 tags: ["projects", "portfolio", "builds"]
 ---
 
-# Builds & Creations
+# My Projects
 
 *These are the digital experiences I've crafted—each one a story of problem-solving, passion, and the joy of making something that matters.*
 
-## FastTrack
+## Fastrack
 **The Project That Put Us on the Map**
 
-Built with friends, FastTrack became our breakthrough project that caught the attention of executives and companies across Pakistan. It wasn't just about the technical achievement—it was proof that we could create something that truly mattered.
+Built with friends, Fastrack became our breakthrough project that caught the attention of executives and companies across Pakistan. It wasn't just about the technical achievement—it was proof that we could create something that truly mattered.
 
 **What I learned**: The power of collaboration, the importance of execution, and how the right project at the right time can change everything.
 
@@ -47,8 +47,8 @@ Created landing pages for teachers who made a difference in my life. This wasn't
 - Mentoring students starting their tech journey
 - Ensuring real value is provided in every interaction
 
-### Bringing Cursor to Pakistan
-Currently working on introducing Cursor to local developers, helping accelerate development capabilities across the Pakistani tech community.
+### Cursor Ambassador for Pakistan
+As the official Cursor Ambassador for Pakistan, I'm working to introduce this revolutionary AI-powered development tool to local developers, helping accelerate development capabilities across the Pakistani tech community.
 
 **Philosophy**: The coding space is as much about community as it is about code. Lifting others up, sharing knowledge, and building something bigger than yourself.
 

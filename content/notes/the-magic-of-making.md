@@ -1,10 +1,10 @@
 ---
-title: "The Magic of Making"
+title: "Building Things That Matter"
 date: 2024-01-12
 tags: ["philosophy", "building", "passion", "community"]
 ---
 
-# The Magic of Making
+# Building Things That Matter
 
 *What drives a builder? It's not just the code, the frameworks, or the late-night debugging sessions. It's something deeper.*
 
@@ -42,9 +42,9 @@ Making landing pages for teachers who shaped my life wasn't just about the techn
 
 When you can use your abilities to help the people who helped you, that's when technology becomes truly meaningful.
 
-## The FastTrack Story
+## The Fastrack Story
 
-Building FastTrack with friends was a turning point. It put our names on the map in Pakistan and got attention from countless executives and companies. But the real victory wasn't the recognition—it was the proof that we could create something that mattered.
+Building Fastrack with friends was a turning point. It put our names on the map in Pakistan and got attention from countless executives and companies. But the real victory wasn't the recognition—it was the proof that we could create something that mattered.
 
 Working with friends, combining our skills, and seeing our collective vision come to life—that's the kind of collaboration that makes the long hours and technical challenges worthwhile.
 
@@ -68,9 +68,9 @@ Every line of code is a small act of creation. Every bug fixed is a problem solv
 
 ## Beyond the Screen
 
-I'm passionate about bringing new technologies to Pakistan, about making sure the next generation has access to the tools and knowledge they need to build amazing things.
+As the Cursor Ambassador for Pakistan, I'm passionate about bringing revolutionary development tools to local developers, making sure the next generation has access to cutting-edge technology that can accelerate their building capabilities.
 
-Whether it's introducing Cursor to local developers or mentoring students who remind me of my younger self, the goal is always the same: enable more people to experience the magic of making.
+Whether it's introducing AI-powered development tools or mentoring students who remind me of my younger self, the goal is always the same: enable more people to experience the magic of making.
 
 ## The Fire Continues
 

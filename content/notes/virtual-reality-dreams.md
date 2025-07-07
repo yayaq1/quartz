@@ -1,10 +1,10 @@
 ---
-title: "Virtual Reality Dreams"
+title: "Why I Love VR"
 date: 2024-01-08
 tags: ["vr", "technology", "future", "experiences"]
 ---
 
-# Virtual Reality Dreams
+# Why I Love VR
 
 *Of all the technologies I've encountered, none have captured my imagination quite like virtual reality. It's the most mind-blowing thing I've ever experienced.*
 

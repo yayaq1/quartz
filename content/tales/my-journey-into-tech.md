@@ -1,10 +1,10 @@
 ---
-title: "The Controller Before I Could Walk"
+title: "My Journey Into Tech"
 date: 2024-01-15
 tags: ["origin-story", "gaming", "passion"]
 ---
 
-# The Controller Before I Could Walk
+# My Journey Into Tech
 
 There's a video somewhere of me as a toddler, barely able to stand, jumping around with a PlayStation 2 controller in my tiny hands. I wasn't even walking properly yet, but there I was, completely absorbed in the magic of interactive experiences. Looking back, that video captures something essential about who I am—I've been a tech nerd for as long as I can remember.
 
@@ -22,7 +22,7 @@ The traditional path never quite fit, but that's okay. Some of us learn better w
 
 ## The Magic of Making
 
-What drives me isn't just the technology—it's the human connection. Whether it's making landing pages for teachers who shaped my life, or building FastTrack with friends that put our names on the map in Pakistan, it's always been about creating something that matters to people.
+What drives me isn't just the technology—it's the human connection. Whether it's making landing pages for teachers who shaped my life, or building Fastrack with friends that put our names on the map in Pakistan, it's always been about creating something that matters to people.
 
 Recently, I built a chat analysis app where friends could upload their conversations and see their top emojis and words. Watching my friends' reactions, seeing them share laughs and discover patterns in their own communication—those moments remind me why I fell in love with this field in the first place.
 

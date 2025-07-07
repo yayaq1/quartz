@@ -41,7 +41,11 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.RecentNotes({ 
+      title: "Recent Notes",
+      limit: 5,
+      showTags: false,
+    }),
   ],
 }
 
@@ -62,5 +66,11 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [],
+  right: [
+    Component.RecentNotes({ 
+      title: "Recent Notes",
+      limit: 5,
+      showTags: false,
+    }),
+  ],
 }

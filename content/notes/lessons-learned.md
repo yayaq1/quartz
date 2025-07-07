@@ -1,10 +1,10 @@
 ---
-title: "Hard Lessons from the Trenches"
+title: "Lessons Learned"
 date: 2024-01-10
 tags: ["lessons", "growth", "failure", "discipline"]
 ---
 
-# Hard Lessons from the Trenches
+# Lessons Learned
 
 *Sometimes the most valuable lessons come from our biggest mistakes. Here are mine.*
 
