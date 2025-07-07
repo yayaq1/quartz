@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz", // Update this to your Vercel domain after deployment
+    baseUrl: "", // Empty baseUrl for relative paths - update to your Vercel domain later
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
