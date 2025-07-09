@@ -420,6 +420,33 @@ a:focus {
     height: 18px !important;
   }
   
+  /* Increase spacing between mobile explorer entries */
+  .explorer-content {
+    .explorer-ul {
+      li {
+        margin-bottom: 0.75rem !important;
+        
+        &:last-child {
+          margin-bottom: 0 !important;
+        }
+        
+        a {
+          padding: 0.5rem 0 !important;
+          line-height: 1.4 !important;
+        }
+        
+        /* Nested items spacing */
+        .explorer-ul {
+          margin-top: 0.5rem !important;
+          
+          li {
+            margin-bottom: 0.5rem !important;
+          }
+        }
+      }
+    }
+  }
+  
   /* Fix mobile search component */
   .search {
     flex: 0 0 auto;
