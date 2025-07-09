@@ -27,9 +27,10 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Explorer(),
+    Component.Explorer({
+      folderDefaultState: "open",
+    }),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
@@ -48,7 +49,9 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Explorer(),
+    Component.Explorer({
+      folderDefaultState: "open",
+    }),
   ],
   right: [
     Component.RecentNotes({ 

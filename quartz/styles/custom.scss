@@ -382,140 +382,136 @@ a:focus {
 /* === IMPROVED MOBILE NAVIGATION === */
 @media all and (max-width: 800px) {
   .sidebar.left {
-    padding: 1.5rem 1rem !important;
-    gap: 1rem !important;
-    min-height: 80px;
+    gap: 0.75rem !important;
+    align-items: center;
+    flex-wrap: nowrap;
+    padding: 1rem !important;
+    background: var(--light);
+    width: 100%;
+    box-sizing: border-box;
+    min-height: 70px;
     
-    /* Make page title larger on mobile */
-    .page-title {
-      font-size: 1.5rem !important;
-      margin-bottom: 0.5rem;
+    /* Ensure all child elements fit properly */
+    > * {
+      flex-shrink: 0;
     }
+  }
+  
+  /* Fix page title mobile sizing */
+  .page-title {
+    flex: 1 1 auto;
+    min-width: 0;
+    text-align: center;
     
-    /* Improve search bar on mobile */
-    .search {
-      width: 100% !important;
-      max-width: none !important;
-      margin: 0.5rem 0 !important;
-      
-      #search-input {
-        font-size: 16px !important; /* Prevents zoom on iOS */
-        padding: 12px 16px !important;
-        height: 48px !important;
-        border-radius: 8px !important;
-        border: 2px solid var(--lightgray) !important;
-        
-        &:focus {
-          border-color: var(--secondary) !important;
-          box-shadow: 0 0 0 3px rgba(212, 114, 43, 0.1) !important;
-        }
-      }
-      
-      .search-button {
-        height: 48px !important;
-        width: 48px !important;
-        border-radius: 8px !important;
-        
-        svg {
-          width: 20px !important;
-          height: 20px !important;
-        }
-      }
+    h1 {
+      font-size: 1.25rem !important;
+      margin: 0 !important;
+      padding: 0 0.75rem !important;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      line-height: 1.3;
     }
+  }
+  
+  /* Fix mobile explorer button - bigger and better spacing */
+  .explorer {
+    flex: 0 0 auto;
     
-    /* Improve explorer toggle on mobile */
-    .explorer {
-      .mobile-explorer {
-        padding: 12px !important;
-        border-radius: 8px !important;
-        background: var(--lightgray) !important;
-        border: 2px solid transparent !important;
-        transition: all 0.2s ease !important;
-        min-height: 48px !important;
-        min-width: 48px !important;
-        
-        &:hover, &:focus {
-          background: var(--secondary) !important;
-          border-color: var(--secondary) !important;
-          
-          .lucide-menu {
-            stroke: white !important;
-          }
-        }
+    .mobile-explorer {
+      display: flex !important;
+      align-items: center;
+      justify-content: center;
+      width: 48px !important;
+      height: 48px !important;
+      min-width: 48px !important;
+      min-height: 48px !important;
+      background: var(--lightgray) !important;
+      border: 1px solid var(--gray) !important;
+      border-radius: 8px !important;
+      padding: 0 !important;
+      margin: 0 !important;
+      box-sizing: border-box !important;
+      transition: all 0.2s ease !important;
+      
+      &:hover, &:focus {
+        background: var(--secondary) !important;
+        border-color: var(--secondary) !important;
         
         .lucide-menu {
-          stroke: var(--dark) !important;
-          width: 24px !important;
-          height: 24px !important;
+          stroke: white !important;
         }
+      }
+      
+      .lucide-menu {
+        stroke: var(--dark) !important;
+        width: 22px !important;
+        height: 22px !important;
+        flex-shrink: 0 !important;
+      }
+    }
+    
+    .desktop-explorer {
+      display: none !important;
+    }
+  }
+  
+  /* Fix mobile search component */
+  .search {
+    flex: 0 0 auto;
+    
+    #search-icon {
+      display: flex !important;
+      align-items: center;
+      justify-content: center;
+      width: 48px !important;
+      height: 48px !important;
+      min-width: 48px !important;
+      min-height: 48px !important;
+      background: var(--lightgray) !important;
+      border: 1px solid var(--gray) !important;
+      border-radius: 8px !important;
+      padding: 0 !important;
+      margin: 0 !important;
+      box-sizing: border-box !important;
+      transition: all 0.2s ease !important;
+      cursor: pointer !important;
+      
+      &:hover, &:focus {
+        background: var(--secondary) !important;
+        border-color: var(--secondary) !important;
         
-        h2 {
-          font-size: 1.1rem !important;
-          margin-left: 0.5rem !important;
+        svg {
+          stroke: white !important;
         }
+      }
+      
+      svg {
+        stroke: var(--dark) !important;
+        width: 22px !important;
+        height: 22px !important;
+        flex-shrink: 0 !important;
+      }
+    }
+    
+    .search-bar {
+      font-size: 16px !important;
+      padding: 12px 16px !important;
+      height: 48px !important;
+      border-radius: 8px !important;
+      border: 2px solid var(--lightgray) !important;
+      
+      &:focus {
+        border-color: var(--secondary) !important;
+        box-shadow: 0 0 0 3px rgba(212, 175, 55, 0.1) !important;
       }
     }
   }
   
-  /* Improve mobile explorer content */
+  /* Prevent explorer sidebar from overlapping header */
   .explorer-content {
-    padding: 2rem 1rem !important;
-    
-    ul li {
-      margin: 0.5rem 0 !important;
-      
-      a {
-        padding: 8px 12px !important;
-        border-radius: 6px !important;
-        display: block !important;
-        transition: all 0.2s ease !important;
-        
-        &:hover {
-          background: var(--highlight) !important;
-          color: var(--secondary) !important;
-        }
-      }
-    }
-  }
-  
-  /* Improve mobile page header */
-  .page-header {
-    padding: 1rem 0 !important;
-    
-    .breadcrumbs {
-      margin-bottom: 1rem !important;
-      
-      a {
-        padding: 6px 12px !important;
-        border-radius: 4px !important;
-        
-        &:hover {
-          background: var(--highlight) !important;
-        }
-      }
-    }
-  }
-  
-  /* Better mobile content spacing */
-  .center {
-    padding: 0 1rem !important;
-  }
-  
-  /* Improve mobile tag list */
-  .tags {
-    margin: 1rem 0 !important;
-    
-    .tag-link {
-      padding: 8px 16px !important;
-      margin: 4px 8px 4px 0 !important;
-      border-radius: 20px !important;
-      font-size: 0.9rem !important;
-      
-      &:hover {
-        transform: translateY(-2px) !important;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) !important;
-      }
-    }
+    top: 80px !important;
+    z-index: 1000 !important;
   }
 }
 
